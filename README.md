@@ -1,5 +1,5 @@
 # Data Science Blogpost project
-You can read my Medium Blog Post in Udacity Data Science Project.
+You can read my Medium Blog Post in [Udacity Data Science Project](https://medium.com/@akikhoa/udacity-data-science-project-860d1741ec01).
 
 ## Libraries
 To be able to run this notebook, you need to install these libraries:
@@ -8,11 +8,11 @@ To be able to run this notebook, you need to install these libraries:
 * collections
 ## Project Overview
 The motivation behind the project is to get a better understanding of **Top programming Language in Germany**, as well as study them as a total.
-1.	 *What are most used programming language in Germany??*
+1.	 *What are most used programming language in Germany?*
 2.	 *What are most wanted programming language in in Germany?*
 3.	 *Which occupations were most popular in each year?*
 
-For this, we are going to use data from Stackoverflow’s 2017 and 2018 Annual Developer Survey.
+For this, we are going to use data from Stackoverflow’s 2017 and 2018 Annual Developer Survey [(by Stackoverflow)](https://insights.stackoverflow.com/survey).
 ## Files in repository
 * **DataScience_blogpost.ipynb**: 
 Notebook containing the data analysis.
